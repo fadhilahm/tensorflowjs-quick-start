@@ -1,0 +1,20 @@
+{
+  "name": "tensorflowjs-quick-start",
+  "version": "1.0.0",
+  "description": "First time using tensorflowjs using guidance from the following video: https://www.youtube.com/watch?v=Y_XM3Bu-4yc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fadhilahm/tensorflowjs-quick-start.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fadhilahm/tensorflowjs-quick-start/issues"
+  },
+  "homepage": "https://github.com/fadhilahm/tensorflowjs-quick-start#readme"
+}
